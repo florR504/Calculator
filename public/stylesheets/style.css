@@ -65,9 +65,7 @@
 .button__calculadora.result {
   background-color: rgb(93, 119, 184);
 }
-.button__calculadora.result:hover {
-  background-color: rgb(151, 170, 219);
-}
+
 
 @media (max-width: 1200px) {
   .calculadora {
