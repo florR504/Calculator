@@ -12,7 +12,7 @@ window.addEventListener('load', function(){
  })
 
 function evalResult(){
-    $answer.value = eval($answer.value)
+    $answer.value = eval($answer.value) //eval evalua una cuenta o concatena strings
 }
 function clearOutput(){
     $answer.value = ''

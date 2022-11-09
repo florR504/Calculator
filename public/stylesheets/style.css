@@ -59,7 +59,7 @@
   box-shadow: 10px 5px 5px rgb(69, 61, 61);
 }
 .button__calculadora:hover {
-  background-color: rgb(216, 138, 138);
+  
   box-shadow: 5px 2px 5px rgb(69, 61, 61);
 }
 .button__calculadora.result {
