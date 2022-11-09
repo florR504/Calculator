@@ -12,13 +12,18 @@
   flex-direction: column;
 }
 .input__calculadora {
-  width: 70%;
+  width: 100%;
   height: 60px;
   border-radius: 5px;
   background-color: #fff;
   border: none;
   display: flex;
   justify-content: flex-end;
+  font-size: 40px;
+}
+.input_form{
+  width: 70%;
+  ;
 }
 .previous__value{
   font-size:40px;
@@ -82,5 +87,11 @@
     font-size: 40px;
     margin-right: 20px;
     margin-top: 10px;
+  }
+}
+
+@media(min-width: 1700px){
+  .buttons{
+    width: 40%;
   }
 }
