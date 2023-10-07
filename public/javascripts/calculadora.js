@@ -18,7 +18,7 @@ function clearOutput(){
     $answer.value = ''
 }
 
- $result.addEventListener('click', evalResult)
+ $result.addEventListener('click', evalResult) //comentario de prueba forks 2
  $clear.addEventListener('click', clearOutput)
 
 })
